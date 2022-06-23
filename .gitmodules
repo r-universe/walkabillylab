@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "activityCounts"]
+	path = activityCounts
+	url = https://github.com/walkabillylab/activitycounts
+	shallow = true
+	registered = true
